@@ -44,8 +44,8 @@ using command prompt
 
 In a separate command prompt
 
--ollama pull gemma3:4b
--ollama run gemma3:4b
+- ollama pull gemma3:4b
+- ollama run gemma3:4b
 
 Return to Alex-Ai root folder via Command Prompt
 IF you have an Nvidia GPU we recommend the following: 
