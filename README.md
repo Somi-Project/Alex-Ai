@@ -43,6 +43,7 @@ using command prompt
 - pip install -r requirements.txt
 
 In a separate command prompt
+
 -ollama pull gemma3:4b
 -ollama run gemma3:4b
 
