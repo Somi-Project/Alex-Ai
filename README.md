@@ -8,6 +8,11 @@ Hardware requirements: Flexible and depends on the models used
 Low-end Hardware - recommend switching model from gemma3:4b to gemma3:1b in settings 
 High-end Hardware - recommend larger models for better processing
 IF nvidia gpu please install cuda driver and cuda for python 
+
+We urge you to take a look at config/settings.py to adjust any parameters necessary including wake words
+
+Currently this is an English Based Audio Processing Unit for now
+
 Features:
 Wake Word Detection: Activates on phrases like "hey assistant" or "hi" with a pleasant chime sound.
 
